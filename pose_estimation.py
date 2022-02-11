@@ -1,3 +1,6 @@
+# Code du Vidéo de Nicholas Renotte
+# https://www.youtube.com/watch?v=KC7nJtBHBqg
+
 import tensorflow as tf
 import tensorflow_hub as hub
 import cv2
